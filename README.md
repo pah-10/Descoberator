@@ -1,6 +1,6 @@
 ![Descoberator-Capa](https://github.com/pah-10/Descoberator/blob/main/Capa.png)
 
-# Descoberator
+# Descoberator :exclamation:
 
 Nesse simples jogo, o usuário precisa descobrir qual número foi escolhido pelo programa.
 
