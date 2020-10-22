@@ -1,2 +1,11 @@
+![Descoberator-Capa](https://github.com/pah-10/Descoberator/blob/main/Capa.png)
+
 # Descoberator
-Um jogo onde o usuário deve descobrir um número!
+
+Nesse jogo, o user precisa descobrir qual número foi escolhido pelo programa!
+
+### Instruções:
+
+* O jogo termina quando o jogador desistir de jogar ou vencer!
+*
+*
