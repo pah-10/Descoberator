@@ -2,17 +2,17 @@
 
 # Descoberator
 
-Nesse simples jogo, o usuário precisa descobrir qual número foi escolhido pelo programa!
+Nesse simples jogo, o usuário precisa descobrir qual número foi escolhido pelo programa.
 
 Além de divertido, o Descoberator ajuda a desenvolver o pensamento e a lógica!
 
-### Instruções:
+## Instruções:
 
 * Qualquer um que já foi criança é bem vindo para jogar!
 
-* O número escolhido não se repete
+* O número escolhido está entre 1 e 100 e não se repete.
 
-* Se a resposta for errada, uma dica aparecera na tela do console
+* Se a resposta for errada, uma dica aparecera na tela do console.
 
 * O programa sempre pergunta se o user quer continuar:
 
