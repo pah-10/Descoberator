@@ -2,11 +2,14 @@
 
 # Descoberator :exclamation:
 
+
 Nesse simples jogo, o usuário precisa descobrir qual número foi escolhido pelo programa.
 
 Além de divertido, o Descoberator ajuda a desenvolver o pensamento e a lógica!
 
+
 ## Instruções:
+
 
 * Qualquer um que já foi criança é bem vindo para jogar!
 
@@ -22,5 +25,6 @@ Além de divertido, o Descoberator ajuda a desenvolver o pensamento e a lógica!
 * O jogo termina quando o jogador desistir de jogar ou vencer.
 
 * As chances são infinitas, então só vai!
+
 
 ### Eai, aceita o desafio?
