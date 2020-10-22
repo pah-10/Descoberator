@@ -9,12 +9,18 @@ Além de divertido, o Descoberator ajuda a desenvolver o pensamento e a lógica!
 ### Instruções:
 
 * Qualquer um que já foi criança é bem vindo para jogar!
+
 * O número escolhido não se repete
+
 * Se a resposta for errada, uma dica aparecera na tela do console
+
 * O programa sempre pergunta se o user quer continuar:
-    - Digite 'S' --> Sim
+
+    - Digite 'S' --> Sim  
     - Digite 'N' --> Não
+    
 * O jogo termina quando o jogador desistir de jogar ou vencer.
+
 * As chances são infinitas, então só vai!
 
-### Eai aceita o desafio?
+### Eai, aceita o desafio?
