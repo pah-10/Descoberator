@@ -12,8 +12,8 @@ Além de divertido, o Descoberator ajuda a desenvolver o pensamento e a lógica!
 * O número escolhido não se repete
 * Se a resposta for errada, uma dica aparecera na tela do console
 * O programa sempre pergunta se o user quer continuar:
-    . Digite 'S' --> Sim
-    . Digite 'N' --> Não
+    - Digite 'S' --> Sim
+    - Digite 'N' --> Não
 * O jogo termina quando o jogador desistir de jogar ou vencer.
 * As chances são infinitas, então só vai!
 
