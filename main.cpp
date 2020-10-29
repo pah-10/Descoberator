@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-//função que retorn a tentativa do user
+//função que retorna a tentativa do user
 void tentativa_User(int *usuario){
 	cout<<"Qual número você escolhe? ";
 	cin>> *usuario;
 	cout<<endl;
 }
 
-//função que escolhe um número aleatoriamente
+//função que escolhe um numero aleatoriamente
 int escolhe_Num(){
 	int escolhido = 0, semente = time(0);
 
@@ -19,7 +19,7 @@ int escolhe_Num(){
 	return escolhido;
 }
 
-//função que verifica se a resposta está correta ou não
+//função que verifica se a resposta esta correta ou nao
 bool verifica_Resposta(bool *resposta, int numEscolhido, int numUsuario){
 	if(numUsuario == numEscolhido){
 		*resposta = true;
@@ -32,7 +32,7 @@ bool verifica_Resposta(bool *resposta, int numEscolhido, int numUsuario){
 	return *resposta;
 }
 
-//função que retorna uma dica sobre o número correto para o jogador
+//função que retorna uma dica sobre o numero correto para o jogador
 void verificaValor_Usuario(int numEscolhido, int numUsuario){
 	if(numUsuario < numEscolhido){
 		cout<<"Que pena você errou!\n\tPS: O número correto é maior que o digitado!"<<endl<<endl;
