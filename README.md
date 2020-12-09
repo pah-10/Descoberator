@@ -1,4 +1,4 @@
-![Descoberator-Capa](https://github.com/pah-10/Descoberator/blob/main/Capa.png)
+<img src="https://github.com/pah-10/Descoberator/blob/main/Capa.png" min-width="500px" max-width="500px" width="400px" align="right" alt="Computador ">
 
 # Descoberator :exclamation:
 
@@ -8,7 +8,7 @@ Nesse simples jogo, o usuário precisa descobrir qual número foi escolhido pelo
 Além de divertido, o Descoberator ajuda a desenvolver o pensamento e a lógica!
 
 
-## Instruções:
+## Observações/Instruções:
 
 
 * Qualquer um que já foi criança é bem vindo para jogar!
